@@ -4,8 +4,7 @@
   "description": "A basic starter boilerplate for node",
   "main": "index.js",
   "scripts": {
-    "dev": "npx nodemon src/index.js",
-    "ls": "ls"
+    "dev": "npx nodemon src/index.js"
   },
   "author": "Bhavanshu Jain",
   "license": "ISC",
